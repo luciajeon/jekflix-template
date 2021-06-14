@@ -1,8 +1,8 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: 최석준
-display_name: 최석준
+name: Author
+display_name: Author
 position: Chief Editor
 bio: Just a developer.
 github_username: thiagorossener
