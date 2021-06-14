@@ -8,7 +8,7 @@ tags:
   - jekyll
   - theme
   - netlify
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -102,4 +102,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.1
+version: v1.0
