@@ -2,12 +2,12 @@
 date: 2021-06-14 06:03:48
 layout: post
 title: "AI Marketplace"
-subtitle:
-description:
+subtitle: 인공지능도 자유롭게 거래할 수 있는 날이 올까요?
+description: 인공지능도 자유롭게 거래할 수 있는 날이 올까요?
 image:
 optimized_image:
-category:
-tags:
+category: 인공지능
+tags: tag1 tag2
 author:
 paginate: false
 ---
