@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: DS2.ai Blog
+title: Your customized AI | DS2.ai 블로그
+description: DS2.ai는 혁신가를 위한 AIOps 플랫폼을 제공합니다. 딥러닝 관련 최신 기사와 팁을 살펴보세요.
 tags:
   - blog
   - template
@@ -17,8 +16,6 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
